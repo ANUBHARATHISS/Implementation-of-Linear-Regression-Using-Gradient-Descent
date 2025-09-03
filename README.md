@@ -64,18 +64,26 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
+
 DATA INFORMATION:
+
 <img width="986" height="366" alt="Screenshot 2025-09-03 112526" src="https://github.com/user-attachments/assets/badcea58-42df-4fc8-ae2c-819b9f7fadf7" />
 
+
 VALUE OF X:
+
 <img width="330" height="765" alt="Screenshot 2025-09-03 112607" src="https://github.com/user-attachments/assets/cd0f1a81-caf3-4efe-a0b8-e085accac74f" />
+
 <img width="323" height="308" alt="Screenshot 2025-09-03 112635" src="https://github.com/user-attachments/assets/14db877b-a772-4515-a832-197025fb1bb7" />
 
 VALUE OF X1_SCALED:
+
 <img width="501" height="700" alt="Screenshot 2025-09-03 112653" src="https://github.com/user-attachments/assets/d50907f3-10dd-431f-a115-5d539bd12fa9" />
+
 <img width="507" height="461" alt="Screenshot 2025-09-03 112701" src="https://github.com/user-attachments/assets/d803e4d0-a171-4f0b-ab8e-d3e0130b05ec" />
 
 PREDICTED VALUE:
+
 <img width="400" height="53" alt="Screenshot 2025-09-03 112713" src="https://github.com/user-attachments/assets/7ca7ca1a-171d-4a05-a7df-2b39552fe4e8" />
 
 
